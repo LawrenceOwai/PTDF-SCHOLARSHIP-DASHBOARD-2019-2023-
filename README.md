@@ -6,10 +6,10 @@ This dashboard aims to: Celebrate PTDF’s impact from 2019 to 2023, Provide a d
 
 📊 What the Dashboard Shows
 Using demo data for illustrative purposes, the dashboard gives a holistic view of PTDF scholarship awards over five years, across different dimensions:
-💰 ₦181M Total Amount Disbursed
-🧑‍🎓 59 Total Scholarships awarded — 30 MSc and 29 PhD
-🏫 12 Universities and 5 Courses represented
-🌍 Gender distribution: 36 Female, 23 Male
+💰 ₦963.50M Total Amount Disbursed
+🧑‍🎓 307 Total Scholarships awarded - 161MSc and 146 PhD
+🏫 17 Universities and 5 Courses represented
+🌍 Gender distribution: 151 Female, 156 Male
 📌 Scholarship spread across States, Countries, and Disciplines
 📈 Time-based visual: MSc vs PhD trends over the years
 🛠️ Filters by Year, Country, Course, University, Level
